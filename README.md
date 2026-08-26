@@ -6,7 +6,7 @@
 
 [![Unity](https://img.shields.io/badge/Unity-2022.3.62f1-000000?logo=unity&logoColor=white)](https://unity.com/)
 ![C#](https://img.shields.io/badge/C%23-Gameplay-512BD4?logo=csharp&logoColor=white)
-![Photon PUN](https://img.shields.io/badge/Photon-PUN%202-004480)](https://www.photonengine.com/pun)
+[![Photon PUN](https://img.shields.io/badge/Photon-PUN%202-004480)](https://www.photonengine.com/pun)
 ![Status](https://img.shields.io/badge/status-portfolio%20polish-orange)
 
 **Single-player creature battles, a small overworld, team selection, type-based combat, and an experimental online multiplayer layer.**

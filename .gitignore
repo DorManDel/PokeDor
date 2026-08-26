@@ -105,5 +105,8 @@ InitTestScene*.unity*
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
+# ----------------------------------------------
+# PokeDor - Local project files
+# ----------------------------------------------
 # Local miscellaneous files - not part of PokeDor
 /Misc/
